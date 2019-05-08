@@ -4,6 +4,7 @@
 def fizzbuzz
   if int % 3==0
     "fizz"
-  elsif int %
+  elsif int % 5==0 
+     
   
 end
