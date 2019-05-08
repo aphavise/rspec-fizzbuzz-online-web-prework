@@ -8,7 +8,7 @@ def fizzbuzz(int)
    return "Fizz"
   elsif int % 5 == 0 
    return "Buzz"
-   binding.pry
+binding.pry
   elsif int % 3 == 5 && int % 5 == 3
    return "FizzBuzz"
   elsif int % 4 == 0 
