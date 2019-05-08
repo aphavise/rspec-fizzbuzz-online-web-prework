@@ -6,8 +6,7 @@ def fizzbuzz
    return "fizz"
   elsif int % 5==0 
    return "Buzz"
-   
-   
-     
-  
+  elsif int % 15==0 
+   return "FizzBuzz"
+  else 
 end
